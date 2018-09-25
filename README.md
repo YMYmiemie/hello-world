@@ -1,2 +1,3 @@
 # hello-world
-new repository
+The story is beginning！
+by Miemie
